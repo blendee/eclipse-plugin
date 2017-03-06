@@ -1,2 +1,1 @@
-# blendee.develop
-Lightweight ORM framework [eclipse update site]
+# Blendee Eclipse Plugin Update Site

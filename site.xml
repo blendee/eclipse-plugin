@@ -12,9 +12,6 @@
    <feature url="features/blendee.devtools_0.1.2.201705151430.jar" id="blendee.devtools" version="0.1.2.201705151430">
       <category name="devtools"/>
    </feature>
-   <feature url="features/blendee.devtools_0.1.2.201705151441.jar" id="blendee.devtools" version="0.1.2.201705151441">
-      <category name="devtools"/>
-   </feature>
    <feature url="features/blendee.devtools_0.1.3.201705151516.jar" id="blendee.devtools" version="0.1.3.201705151516">
       <category name="devtools"/>
    </feature>

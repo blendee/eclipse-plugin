@@ -15,7 +15,7 @@
    <feature url="features/blendee.devtools_0.1.3.201705151612.jar" id="blendee.devtools" version="0.1.3.201705151612">
       <category name="devtools"/>
    </feature>
-   <feature url="features/blendee.devtools_0.1.4.201705151620.jar" id="blendee.devtools" version="0.1.4.201705151620">
+   <feature url="features/blendee.devtools_0.1.5.201705182241.jar" id="blendee.devtools" version="0.1.5.201705182241">
       <category name="devtools"/>
    </feature>
    <category-def name="devtools" label="Development Tools">

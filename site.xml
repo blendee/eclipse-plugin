@@ -3,19 +3,7 @@
    <description name="Blendee Update Site">
       Blendee Update Site
    </description>
-   <feature url="features/blendee.devtools_0.1.0.201703061544.jar" id="blendee.devtools" version="0.1.0.201703061544">
-      <category name="devtools"/>
-   </feature>
-   <feature url="features/blendee.devtools_0.1.1.201705101137.jar" id="blendee.devtools" version="0.1.1.201705101137">
-      <category name="devtools"/>
-   </feature>
-   <feature url="features/blendee.devtools_0.1.2.201705151430.jar" id="blendee.devtools" version="0.1.2.201705151430">
-      <category name="devtools"/>
-   </feature>
-   <feature url="features/blendee.devtools_0.1.3.201705151612.jar" id="blendee.devtools" version="0.1.3.201705151612">
-      <category name="devtools"/>
-   </feature>
-   <feature url="features/blendee.devtools_0.1.5.201705182241.jar" id="blendee.devtools" version="0.1.5.201705182241">
+   <feature url="features/blendee.devtools_0.1.0.201705291023.jar" id="blendee.devtools" version="0.1.0.201705291023">
       <category name="devtools"/>
    </feature>
    <category-def name="devtools" label="Development Tools">

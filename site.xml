@@ -288,6 +288,9 @@
    <feature url="features/blendee.devtools_0.9.1.202108160229.jar" id="blendee.devtools" version="0.9.1.202108160229">
       <category name="devtools"/>
    </feature>
+   <feature url="features/blendee.devtools_0.9.2.202108170045.jar" id="blendee.devtools" version="0.9.2.202108170045">
+      <category name="devtools"/>
+   </feature>
    <category-def name="devtools" label="Development Tools">
       <description>
          includes Query Editor and ORM Generator
